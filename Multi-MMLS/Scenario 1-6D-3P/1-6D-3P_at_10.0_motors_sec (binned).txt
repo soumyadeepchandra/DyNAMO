@@ -1,0 +1,572 @@
+ 
+Multisegment1-6D-3Pat10.0motors_sec 
+Timestep:1sec 
+Motor a: Seg 1:0, Seg 2:0, Seg 3:0 
+Motor b: Seg 1:0, Seg 2:0, Seg 3:0 
+Throughput a: Seg 1:0, Seg 2:0, Seg 3:0 
+Throughput b: Seg 1:0, Seg 2:0, Seg 3:0 
+Timestep:2sec 
+Motor a: Seg 1:0, Seg 2:0, Seg 3:0 
+Motor b: Seg 1:0, Seg 2:0, Seg 3:0 
+Throughput a: Seg 1:0, Seg 2:0, Seg 3:0 
+Throughput b: Seg 1:0, Seg 2:0, Seg 3:0 
+Timestep:3sec 
+Motor a: Seg 1:0, Seg 2:0, Seg 3:0 
+Motor b: Seg 1:0, Seg 2:0, Seg 3:0 
+Throughput a: Seg 1:0, Seg 2:0, Seg 3:0 
+Throughput b: Seg 1:0, Seg 2:0, Seg 3:0 
+Timestep:4sec 
+Motor a: Seg 1:0, Seg 2:0, Seg 3:0 
+Motor b: Seg 1:0, Seg 2:0, Seg 3:0 
+Throughput a: Seg 1:0, Seg 2:0, Seg 3:0 
+Throughput b: Seg 1:0, Seg 2:0, Seg 3:0 
+Timestep:5sec 
+Motor a: Seg 1:0, Seg 2:0, Seg 3:0 
+Motor b: Seg 1:0, Seg 2:0, Seg 3:0 
+Throughput a: Seg 1:0, Seg 2:0, Seg 3:0 
+Throughput b: Seg 1:0, Seg 2:0, Seg 3:0 
+Timestep:6sec 
+Motor a: Seg 1:0, Seg 2:0, Seg 3:0 
+Motor b: Seg 1:0, Seg 2:0, Seg 3:0 
+Throughput a: Seg 1:0, Seg 2:0, Seg 3:0 
+Throughput b: Seg 1:0, Seg 2:0, Seg 3:0 
+Timestep:7sec 
+Motor a: Seg 1:0, Seg 2:0, Seg 3:0 
+Motor b: Seg 1:0, Seg 2:0, Seg 3:0 
+Throughput a: Seg 1:0, Seg 2:0, Seg 3:0 
+Throughput b: Seg 1:0, Seg 2:0, Seg 3:0 
+Timestep:8sec 
+Motor a: Seg 1:0, Seg 2:0, Seg 3:0 
+Motor b: Seg 1:0, Seg 2:0, Seg 3:0 
+Throughput a: Seg 1:0, Seg 2:0, Seg 3:0 
+Throughput b: Seg 1:0, Seg 2:0, Seg 3:0 
+Timestep:9sec 
+Motor a: Seg 1:8, Seg 2:0, Seg 3:0 
+Motor b: Seg 1:0, Seg 2:0, Seg 3:0 
+Throughput a: Seg 1:8, Seg 2:0, Seg 3:0 
+Throughput b: Seg 1:0, Seg 2:0, Seg 3:0 
+Timestep:10sec 
+Motor a: Seg 1:3, Seg 2:0, Seg 3:0 
+Motor b: Seg 1:0, Seg 2:0, Seg 3:0 
+Throughput a: Seg 1:11, Seg 2:0, Seg 3:0 
+Throughput b: Seg 1:0, Seg 2:0, Seg 3:0 
+Timestep:11sec 
+Motor a: Seg 1:7, Seg 2:0, Seg 3:0 
+Motor b: Seg 1:0, Seg 2:0, Seg 3:0 
+Throughput a: Seg 1:18, Seg 2:0, Seg 3:0 
+Throughput b: Seg 1:0, Seg 2:0, Seg 3:0 
+Timestep:12sec 
+Motor a: Seg 1:4, Seg 2:0, Seg 3:0 
+Motor b: Seg 1:0, Seg 2:0, Seg 3:0 
+Throughput a: Seg 1:22, Seg 2:0, Seg 3:0 
+Throughput b: Seg 1:0, Seg 2:0, Seg 3:0 
+Timestep:13sec 
+Motor a: Seg 1:9, Seg 2:0, Seg 3:0 
+Motor b: Seg 1:0, Seg 2:0, Seg 3:0 
+Throughput a: Seg 1:31, Seg 2:0, Seg 3:0 
+Throughput b: Seg 1:0, Seg 2:0, Seg 3:0 
+Timestep:14sec 
+Motor a: Seg 1:7, Seg 2:0, Seg 3:0 
+Motor b: Seg 1:7, Seg 2:0, Seg 3:0 
+Throughput a: Seg 1:38, Seg 2:0, Seg 3:0 
+Throughput b: Seg 1:7, Seg 2:0, Seg 3:0 
+Timestep:15sec 
+Motor a: Seg 1:2, Seg 2:0, Seg 3:0 
+Motor b: Seg 1:16, Seg 2:0, Seg 3:0 
+Throughput a: Seg 1:40, Seg 2:0, Seg 3:0 
+Throughput b: Seg 1:23, Seg 2:0, Seg 3:0 
+Timestep:16sec 
+Motor a: Seg 1:3, Seg 2:0, Seg 3:0 
+Motor b: Seg 1:1, Seg 2:0, Seg 3:0 
+Throughput a: Seg 1:43, Seg 2:0, Seg 3:0 
+Throughput b: Seg 1:24, Seg 2:0, Seg 3:0 
+Timestep:17sec 
+Motor a: Seg 1:6, Seg 2:7, Seg 3:0 
+Motor b: Seg 1:0, Seg 2:0, Seg 3:0 
+Throughput a: Seg 1:49, Seg 2:7, Seg 3:0 
+Throughput b: Seg 1:24, Seg 2:0, Seg 3:0 
+Timestep:18sec 
+Motor a: Seg 1:8, Seg 2:4, Seg 3:0 
+Motor b: Seg 1:1, Seg 2:0, Seg 3:0 
+Throughput a: Seg 1:57, Seg 2:11, Seg 3:0 
+Throughput b: Seg 1:25, Seg 2:0, Seg 3:0 
+Timestep:19sec 
+Motor a: Seg 1:11, Seg 2:5, Seg 3:0 
+Motor b: Seg 1:1, Seg 2:0, Seg 3:0 
+Throughput a: Seg 1:68, Seg 2:16, Seg 3:0 
+Throughput b: Seg 1:26, Seg 2:0, Seg 3:0 
+Timestep:20sec 
+Motor a: Seg 1:2, Seg 2:6, Seg 3:0 
+Motor b: Seg 1:7, Seg 2:0, Seg 3:0 
+Throughput a: Seg 1:70, Seg 2:22, Seg 3:0 
+Throughput b: Seg 1:33, Seg 2:0, Seg 3:0 
+Timestep:21sec 
+Motor a: Seg 1:3, Seg 2:9, Seg 3:0 
+Motor b: Seg 1:4, Seg 2:0, Seg 3:0 
+Throughput a: Seg 1:73, Seg 2:31, Seg 3:0 
+Throughput b: Seg 1:37, Seg 2:0, Seg 3:0 
+Timestep:22sec 
+Motor a: Seg 1:4, Seg 2:5, Seg 3:0 
+Motor b: Seg 1:6, Seg 2:0, Seg 3:0 
+Throughput a: Seg 1:77, Seg 2:36, Seg 3:0 
+Throughput b: Seg 1:43, Seg 2:0, Seg 3:0 
+Timestep:23sec 
+Motor a: Seg 1:5, Seg 2:3, Seg 3:0 
+Motor b: Seg 1:4, Seg 2:0, Seg 3:0 
+Throughput a: Seg 1:82, Seg 2:39, Seg 3:0 
+Throughput b: Seg 1:47, Seg 2:0, Seg 3:0 
+Timestep:24sec 
+Motor a: Seg 1:4, Seg 2:2, Seg 3:0 
+Motor b: Seg 1:4, Seg 2:0, Seg 3:0 
+Throughput a: Seg 1:86, Seg 2:41, Seg 3:0 
+Throughput b: Seg 1:51, Seg 2:0, Seg 3:0 
+Timestep:25sec 
+Motor a: Seg 1:7, Seg 2:0, Seg 3:7 
+Motor b: Seg 1:5, Seg 2:6, Seg 3:0 
+Throughput a: Seg 1:93, Seg 2:41, Seg 3:7 
+Throughput b: Seg 1:56, Seg 2:6, Seg 3:0 
+Timestep:26sec 
+Motor a: Seg 1:6, Seg 2:7, Seg 3:4 
+Motor b: Seg 1:7, Seg 2:8, Seg 3:0 
+Throughput a: Seg 1:99, Seg 2:48, Seg 3:11 
+Throughput b: Seg 1:63, Seg 2:14, Seg 3:0 
+Timestep:27sec 
+Motor a: Seg 1:6, Seg 2:9, Seg 3:4 
+Motor b: Seg 1:8, Seg 2:1, Seg 3:0 
+Throughput a: Seg 1:105, Seg 2:57, Seg 3:15 
+Throughput b: Seg 1:71, Seg 2:15, Seg 3:0 
+Timestep:28sec 
+Motor a: Seg 1:6, Seg 2:3, Seg 3:7 
+Motor b: Seg 1:4, Seg 2:5, Seg 3:0 
+Throughput a: Seg 1:111, Seg 2:60, Seg 3:22 
+Throughput b: Seg 1:75, Seg 2:20, Seg 3:0 
+Timestep:29sec 
+Motor a: Seg 1:4, Seg 2:8, Seg 3:9 
+Motor b: Seg 1:2, Seg 2:3, Seg 3:0 
+Throughput a: Seg 1:115, Seg 2:68, Seg 3:31 
+Throughput b: Seg 1:77, Seg 2:23, Seg 3:0 
+Timestep:30sec 
+Motor a: Seg 1:6, Seg 2:5, Seg 3:5 
+Motor b: Seg 1:5, Seg 2:1, Seg 3:0 
+Throughput a: Seg 1:121, Seg 2:73, Seg 3:36 
+Throughput b: Seg 1:82, Seg 2:24, Seg 3:0 
+Timestep:31sec 
+Motor a: Seg 1:6, Seg 2:1, Seg 3:3 
+Motor b: Seg 1:3, Seg 2:0, Seg 3:0 
+Throughput a: Seg 1:127, Seg 2:74, Seg 3:39 
+Throughput b: Seg 1:85, Seg 2:24, Seg 3:0 
+Timestep:32sec 
+Motor a: Seg 1:3, Seg 2:6, Seg 3:2 
+Motor b: Seg 1:13, Seg 2:1, Seg 3:0 
+Throughput a: Seg 1:130, Seg 2:80, Seg 3:41 
+Throughput b: Seg 1:98, Seg 2:25, Seg 3:0 
+Timestep:33sec 
+Motor a: Seg 1:1, Seg 2:5, Seg 3:0 
+Motor b: Seg 1:2, Seg 2:0, Seg 3:0 
+Throughput a: Seg 1:131, Seg 2:85, Seg 3:41 
+Throughput b: Seg 1:100, Seg 2:25, Seg 3:0 
+Timestep:34sec 
+Motor a: Seg 1:3, Seg 2:1, Seg 3:1 
+Motor b: Seg 1:5, Seg 2:9, Seg 3:0 
+Throughput a: Seg 1:134, Seg 2:86, Seg 3:42 
+Throughput b: Seg 1:105, Seg 2:34, Seg 3:0 
+Timestep:35sec 
+Motor a: Seg 1:7, Seg 2:5, Seg 3:14 
+Motor b: Seg 1:2, Seg 2:4, Seg 3:0 
+Throughput a: Seg 1:141, Seg 2:91, Seg 3:56 
+Throughput b: Seg 1:107, Seg 2:38, Seg 3:0 
+Timestep:36sec 
+Motor a: Seg 1:8, Seg 2:8, Seg 3:1 
+Motor b: Seg 1:3, Seg 2:2, Seg 3:0 
+Throughput a: Seg 1:149, Seg 2:99, Seg 3:57 
+Throughput b: Seg 1:110, Seg 2:40, Seg 3:0 
+Timestep:37sec 
+Motor a: Seg 1:7, Seg 2:4, Seg 3:10 
+Motor b: Seg 1:4, Seg 2:6, Seg 3:3 
+Throughput a: Seg 1:156, Seg 2:103, Seg 3:67 
+Throughput b: Seg 1:114, Seg 2:46, Seg 3:3 
+Timestep:38sec 
+Motor a: Seg 1:2, Seg 2:5, Seg 3:3 
+Motor b: Seg 1:8, Seg 2:1, Seg 3:4 
+Throughput a: Seg 1:158, Seg 2:108, Seg 3:70 
+Throughput b: Seg 1:122, Seg 2:47, Seg 3:7 
+Timestep:39sec 
+Motor a: Seg 1:8, Seg 2:6, Seg 3:5 
+Motor b: Seg 1:5, Seg 2:4, Seg 3:6 
+Throughput a: Seg 1:166, Seg 2:114, Seg 3:75 
+Throughput b: Seg 1:127, Seg 2:51, Seg 3:13 
+Timestep:40sec 
+Motor a: Seg 1:3, Seg 2:2, Seg 3:1 
+Motor b: Seg 1:5, Seg 2:4, Seg 3:1 
+Throughput a: Seg 1:169, Seg 2:116, Seg 3:76 
+Throughput b: Seg 1:132, Seg 2:55, Seg 3:14 
+Timestep:41sec 
+Motor a: Seg 1:4, Seg 2:6, Seg 3:9 
+Motor b: Seg 1:5, Seg 2:6, Seg 3:3 
+Throughput a: Seg 1:173, Seg 2:122, Seg 3:85 
+Throughput b: Seg 1:137, Seg 2:61, Seg 3:17 
+Timestep:42sec 
+Motor a: Seg 1:8, Seg 2:5, Seg 3:0 
+Motor b: Seg 1:3, Seg 2:7, Seg 3:3 
+Throughput a: Seg 1:181, Seg 2:127, Seg 3:85 
+Throughput b: Seg 1:140, Seg 2:68, Seg 3:20 
+Timestep:43sec 
+Motor a: Seg 1:6, Seg 2:3, Seg 3:4 
+Motor b: Seg 1:3, Seg 2:4, Seg 3:3 
+Throughput a: Seg 1:187, Seg 2:130, Seg 3:89 
+Throughput b: Seg 1:143, Seg 2:72, Seg 3:23 
+Timestep:44sec 
+Motor a: Seg 1:8, Seg 2:2, Seg 3:7 
+Motor b: Seg 1:3, Seg 2:3, Seg 3:1 
+Throughput a: Seg 1:195, Seg 2:132, Seg 3:96 
+Throughput b: Seg 1:146, Seg 2:75, Seg 3:24 
+Timestep:45sec 
+Motor a: Seg 1:2, Seg 2:0, Seg 3:3 
+Motor b: Seg 1:2, Seg 2:5, Seg 3:0 
+Throughput a: Seg 1:197, Seg 2:132, Seg 3:99 
+Throughput b: Seg 1:148, Seg 2:80, Seg 3:24 
+Timestep:46sec 
+Motor a: Seg 1:3, Seg 2:4, Seg 3:8 
+Motor b: Seg 1:7, Seg 2:10, Seg 3:5 
+Throughput a: Seg 1:200, Seg 2:136, Seg 3:107 
+Throughput b: Seg 1:155, Seg 2:90, Seg 3:29 
+Timestep:47sec 
+Motor a: Seg 1:5, Seg 2:11, Seg 3:3 
+Motor b: Seg 1:4, Seg 2:1, Seg 3:3 
+Throughput a: Seg 1:205, Seg 2:147, Seg 3:110 
+Throughput b: Seg 1:159, Seg 2:91, Seg 3:32 
+Timestep:48sec 
+Motor a: Seg 1:6, Seg 2:8, Seg 3:5 
+Motor b: Seg 1:5, Seg 2:7, Seg 3:3 
+Throughput a: Seg 1:211, Seg 2:155, Seg 3:115 
+Throughput b: Seg 1:164, Seg 2:98, Seg 3:35 
+Timestep:49sec 
+Motor a: Seg 1:7, Seg 2:4, Seg 3:3 
+Motor b: Seg 1:6, Seg 2:2, Seg 3:4 
+Throughput a: Seg 1:218, Seg 2:159, Seg 3:118 
+Throughput b: Seg 1:170, Seg 2:100, Seg 3:39 
+Timestep:50sec 
+Motor a: Seg 1:5, Seg 2:5, Seg 3:6 
+Motor b: Seg 1:2, Seg 2:3, Seg 3:4 
+Throughput a: Seg 1:223, Seg 2:164, Seg 3:124 
+Throughput b: Seg 1:172, Seg 2:103, Seg 3:43 
+Timestep:51sec 
+Motor a: Seg 1:2, Seg 2:5, Seg 3:5 
+Motor b: Seg 1:6, Seg 2:4, Seg 3:3 
+Throughput a: Seg 1:225, Seg 2:169, Seg 3:129 
+Throughput b: Seg 1:178, Seg 2:107, Seg 3:46 
+Timestep:52sec 
+Motor a: Seg 1:14, Seg 2:4, Seg 3:1 
+Motor b: Seg 1:15, Seg 2:3, Seg 3:3 
+Throughput a: Seg 1:239, Seg 2:173, Seg 3:130 
+Throughput b: Seg 1:193, Seg 2:110, Seg 3:49 
+Timestep:53sec 
+Motor a: Seg 1:3, Seg 2:7, Seg 3:2 
+Motor b: Seg 1:5, Seg 2:3, Seg 3:3 
+Throughput a: Seg 1:242, Seg 2:180, Seg 3:132 
+Throughput b: Seg 1:198, Seg 2:113, Seg 3:52 
+Timestep:54sec 
+Motor a: Seg 1:7, Seg 2:7, Seg 3:9 
+Motor b: Seg 1:3, Seg 2:7, Seg 3:7 
+Throughput a: Seg 1:249, Seg 2:187, Seg 3:141 
+Throughput b: Seg 1:201, Seg 2:120, Seg 3:59 
+Timestep:55sec 
+Motor a: Seg 1:5, Seg 2:3, Seg 3:3 
+Motor b: Seg 1:5, Seg 2:6, Seg 3:5 
+Throughput a: Seg 1:254, Seg 2:190, Seg 3:144 
+Throughput b: Seg 1:206, Seg 2:126, Seg 3:64 
+Timestep:56sec 
+Motor a: Seg 1:6, Seg 2:5, Seg 3:7 
+Motor b: Seg 1:5, Seg 2:6, Seg 3:7 
+Throughput a: Seg 1:260, Seg 2:195, Seg 3:151 
+Throughput b: Seg 1:211, Seg 2:132, Seg 3:71 
+Timestep:57sec 
+Motor a: Seg 1:5, Seg 2:2, Seg 3:5 
+Motor b: Seg 1:4, Seg 2:3, Seg 3:4 
+Throughput a: Seg 1:265, Seg 2:197, Seg 3:156 
+Throughput b: Seg 1:215, Seg 2:135, Seg 3:75 
+Timestep:58sec 
+Motor a: Seg 1:6, Seg 2:5, Seg 3:4 
+Motor b: Seg 1:4, Seg 2:4, Seg 3:10 
+Throughput a: Seg 1:271, Seg 2:202, Seg 3:160 
+Throughput b: Seg 1:219, Seg 2:139, Seg 3:85 
+Timestep:59sec 
+Motor a: Seg 1:2, Seg 2:5, Seg 3:5 
+Motor b: Seg 1:10, Seg 2:2, Seg 3:1 
+Throughput a: Seg 1:273, Seg 2:207, Seg 3:165 
+Throughput b: Seg 1:229, Seg 2:141, Seg 3:86 
+Timestep:60sec 
+Motor a: Seg 1:2, Seg 2:6, Seg 3:4 
+Motor b: Seg 1:3, Seg 2:3, Seg 3:4 
+Throughput a: Seg 1:275, Seg 2:213, Seg 3:169 
+Throughput b: Seg 1:232, Seg 2:144, Seg 3:90 
+Timestep:61sec 
+Motor a: Seg 1:5, Seg 2:5, Seg 3:4 
+Motor b: Seg 1:0, Seg 2:2, Seg 3:3 
+Throughput a: Seg 1:280, Seg 2:218, Seg 3:173 
+Throughput b: Seg 1:232, Seg 2:146, Seg 3:93 
+Timestep:62sec 
+Motor a: Seg 1:5, Seg 2:5, Seg 3:8 
+Motor b: Seg 1:5, Seg 2:4, Seg 3:5 
+Throughput a: Seg 1:285, Seg 2:223, Seg 3:181 
+Throughput b: Seg 1:237, Seg 2:150, Seg 3:98 
+Timestep:63sec 
+Motor a: Seg 1:4, Seg 2:2, Seg 3:6 
+Motor b: Seg 1:2, Seg 2:5, Seg 3:2 
+Throughput a: Seg 1:289, Seg 2:225, Seg 3:187 
+Throughput b: Seg 1:239, Seg 2:155, Seg 3:100 
+Timestep:64sec 
+Motor a: Seg 1:5, Seg 2:7, Seg 3:3 
+Motor b: Seg 1:4, Seg 2:5, Seg 3:6 
+Throughput a: Seg 1:294, Seg 2:232, Seg 3:190 
+Throughput b: Seg 1:243, Seg 2:160, Seg 3:106 
+Timestep:65sec 
+Motor a: Seg 1:2, Seg 2:6, Seg 3:7 
+Motor b: Seg 1:13, Seg 2:8, Seg 3:1 
+Throughput a: Seg 1:296, Seg 2:238, Seg 3:197 
+Throughput b: Seg 1:256, Seg 2:168, Seg 3:107 
+Timestep:66sec 
+Motor a: Seg 1:5, Seg 2:3, Seg 3:2 
+Motor b: Seg 1:3, Seg 2:11, Seg 3:4 
+Throughput a: Seg 1:301, Seg 2:241, Seg 3:199 
+Throughput b: Seg 1:259, Seg 2:179, Seg 3:111 
+Timestep:67sec 
+Motor a: Seg 1:5, Seg 2:11, Seg 3:5 
+Motor b: Seg 1:3, Seg 2:2, Seg 3:2 
+Throughput a: Seg 1:306, Seg 2:252, Seg 3:204 
+Throughput b: Seg 1:262, Seg 2:181, Seg 3:113 
+Timestep:68sec 
+Motor a: Seg 1:4, Seg 2:4, Seg 3:3 
+Motor b: Seg 1:1, Seg 2:6, Seg 3:9 
+Throughput a: Seg 1:310, Seg 2:256, Seg 3:207 
+Throughput b: Seg 1:263, Seg 2:187, Seg 3:122 
+Timestep:69sec 
+Motor a: Seg 1:4, Seg 2:4, Seg 3:9 
+Motor b: Seg 1:5, Seg 2:3, Seg 3:6 
+Throughput a: Seg 1:314, Seg 2:260, Seg 3:216 
+Throughput b: Seg 1:268, Seg 2:190, Seg 3:128 
+Timestep:70sec 
+Motor a: Seg 1:2, Seg 2:5, Seg 3:2 
+Motor b: Seg 1:7, Seg 2:4, Seg 3:4 
+Throughput a: Seg 1:316, Seg 2:265, Seg 3:218 
+Throughput b: Seg 1:275, Seg 2:194, Seg 3:132 
+Timestep:71sec 
+Motor a: Seg 1:10, Seg 2:6, Seg 3:5 
+Motor b: Seg 1:5, Seg 2:4, Seg 3:5 
+Throughput a: Seg 1:326, Seg 2:271, Seg 3:223 
+Throughput b: Seg 1:280, Seg 2:198, Seg 3:137 
+Timestep:72sec 
+Motor a: Seg 1:4, Seg 2:2, Seg 3:3 
+Motor b: Seg 1:3, Seg 2:7, Seg 3:2 
+Throughput a: Seg 1:330, Seg 2:273, Seg 3:226 
+Throughput b: Seg 1:283, Seg 2:205, Seg 3:139 
+Timestep:73sec 
+Motor a: Seg 1:7, Seg 2:2, Seg 3:7 
+Motor b: Seg 1:6, Seg 2:1, Seg 3:3 
+Throughput a: Seg 1:337, Seg 2:275, Seg 3:233 
+Throughput b: Seg 1:289, Seg 2:206, Seg 3:142 
+Timestep:74sec 
+Motor a: Seg 1:3, Seg 2:4, Seg 3:6 
+Motor b: Seg 1:6, Seg 2:5, Seg 3:2 
+Throughput a: Seg 1:340, Seg 2:279, Seg 3:239 
+Throughput b: Seg 1:295, Seg 2:211, Seg 3:144 
+Timestep:75sec 
+Motor a: Seg 1:4, Seg 2:5, Seg 3:7 
+Motor b: Seg 1:5, Seg 2:10, Seg 3:3 
+Throughput a: Seg 1:344, Seg 2:284, Seg 3:246 
+Throughput b: Seg 1:300, Seg 2:221, Seg 3:147 
+Timestep:76sec 
+Motor a: Seg 1:6, Seg 2:4, Seg 3:6 
+Motor b: Seg 1:4, Seg 2:2, Seg 3:7 
+Throughput a: Seg 1:350, Seg 2:288, Seg 3:252 
+Throughput b: Seg 1:304, Seg 2:223, Seg 3:154 
+Timestep:77sec 
+Motor a: Seg 1:3, Seg 2:3, Seg 3:4 
+Motor b: Seg 1:4, Seg 2:5, Seg 3:2 
+Throughput a: Seg 1:353, Seg 2:291, Seg 3:256 
+Throughput b: Seg 1:308, Seg 2:228, Seg 3:156 
+Timestep:78sec 
+Motor a: Seg 1:5, Seg 2:4, Seg 3:5 
+Motor b: Seg 1:9, Seg 2:3, Seg 3:8 
+Throughput a: Seg 1:358, Seg 2:295, Seg 3:261 
+Throughput b: Seg 1:317, Seg 2:231, Seg 3:164 
+Timestep:79sec 
+Motor a: Seg 1:4, Seg 2:3, Seg 3:4 
+Motor b: Seg 1:4, Seg 2:1, Seg 3:9 
+Throughput a: Seg 1:362, Seg 2:298, Seg 3:265 
+Throughput b: Seg 1:321, Seg 2:232, Seg 3:173 
+Timestep:80sec 
+Motor a: Seg 1:2, Seg 2:4, Seg 3:6 
+Motor b: Seg 1:3, Seg 2:3, Seg 3:6 
+Throughput a: Seg 1:364, Seg 2:302, Seg 3:271 
+Throughput b: Seg 1:324, Seg 2:235, Seg 3:179 
+Timestep:81sec 
+Motor a: Seg 1:5, Seg 2:7, Seg 3:2 
+Motor b: Seg 1:5, Seg 2:3, Seg 3:4 
+Throughput a: Seg 1:369, Seg 2:309, Seg 3:273 
+Throughput b: Seg 1:329, Seg 2:238, Seg 3:183 
+Timestep:82sec 
+Motor a: Seg 1:2, Seg 2:1, Seg 3:2 
+Motor b: Seg 1:4, Seg 2:8, Seg 3:5 
+Throughput a: Seg 1:371, Seg 2:310, Seg 3:275 
+Throughput b: Seg 1:333, Seg 2:246, Seg 3:188 
+Timestep:83sec 
+Motor a: Seg 1:8, Seg 2:5, Seg 3:4 
+Motor b: Seg 1:8, Seg 2:5, Seg 3:3 
+Throughput a: Seg 1:379, Seg 2:315, Seg 3:279 
+Throughput b: Seg 1:341, Seg 2:251, Seg 3:191 
+Timestep:84sec 
+Motor a: Seg 1:4, Seg 2:1, Seg 3:6 
+Motor b: Seg 1:5, Seg 2:5, Seg 3:5 
+Throughput a: Seg 1:383, Seg 2:316, Seg 3:285 
+Throughput b: Seg 1:346, Seg 2:256, Seg 3:196 
+Timestep:85sec 
+Motor a: Seg 1:10, Seg 2:8, Seg 3:3 
+Motor b: Seg 1:4, Seg 2:3, Seg 3:8 
+Throughput a: Seg 1:393, Seg 2:324, Seg 3:288 
+Throughput b: Seg 1:350, Seg 2:259, Seg 3:204 
+Timestep:86sec 
+Motor a: Seg 1:3, Seg 2:4, Seg 3:4 
+Motor b: Seg 1:8, Seg 2:3, Seg 3:1 
+Throughput a: Seg 1:396, Seg 2:328, Seg 3:292 
+Throughput b: Seg 1:358, Seg 2:262, Seg 3:205 
+Timestep:87sec 
+Motor a: Seg 1:1, Seg 2:6, Seg 3:3 
+Motor b: Seg 1:11, Seg 2:1, Seg 3:10 
+Throughput a: Seg 1:397, Seg 2:334, Seg 3:295 
+Throughput b: Seg 1:369, Seg 2:263, Seg 3:215 
+Timestep:88sec 
+Motor a: Seg 1:5, Seg 2:5, Seg 3:3 
+Motor b: Seg 1:2, Seg 2:9, Seg 3:4 
+Throughput a: Seg 1:402, Seg 2:339, Seg 3:298 
+Throughput b: Seg 1:371, Seg 2:272, Seg 3:219 
+Timestep:89sec 
+Motor a: Seg 1:5, Seg 2:1, Seg 3:4 
+Motor b: Seg 1:6, Seg 2:3, Seg 3:2 
+Throughput a: Seg 1:407, Seg 2:340, Seg 3:302 
+Throughput b: Seg 1:377, Seg 2:275, Seg 3:221 
+Timestep:90sec 
+Motor a: Seg 1:9, Seg 2:5, Seg 3:7 
+Motor b: Seg 1:2, Seg 2:4, Seg 3:3 
+Throughput a: Seg 1:416, Seg 2:345, Seg 3:309 
+Throughput b: Seg 1:379, Seg 2:279, Seg 3:224 
+Timestep:91sec 
+Motor a: Seg 1:5, Seg 2:5, Seg 3:1 
+Motor b: Seg 1:6, Seg 2:4, Seg 3:5 
+Throughput a: Seg 1:421, Seg 2:350, Seg 3:310 
+Throughput b: Seg 1:385, Seg 2:283, Seg 3:229 
+Timestep:92sec 
+Motor a: Seg 1:1, Seg 2:4, Seg 3:5 
+Motor b: Seg 1:2, Seg 2:4, Seg 3:3 
+Throughput a: Seg 1:422, Seg 2:354, Seg 3:315 
+Throughput b: Seg 1:387, Seg 2:287, Seg 3:232 
+Timestep:93sec 
+Motor a: Seg 1:3, Seg 2:4, Seg 3:3 
+Motor b: Seg 1:3, Seg 2:4, Seg 3:0 
+Throughput a: Seg 1:425, Seg 2:358, Seg 3:318 
+Throughput b: Seg 1:390, Seg 2:291, Seg 3:232 
+Timestep:94sec 
+Motor a: Seg 1:5, Seg 2:4, Seg 3:8 
+Motor b: Seg 1:3, Seg 2:6, Seg 3:5 
+Throughput a: Seg 1:430, Seg 2:362, Seg 3:326 
+Throughput b: Seg 1:393, Seg 2:297, Seg 3:237 
+Timestep:95sec 
+Motor a: Seg 1:12, Seg 2:2, Seg 3:6 
+Motor b: Seg 1:5, Seg 2:4, Seg 3:1 
+Throughput a: Seg 1:442, Seg 2:364, Seg 3:332 
+Throughput b: Seg 1:398, Seg 2:301, Seg 3:238 
+Timestep:96sec 
+Motor a: Seg 1:3, Seg 2:5, Seg 3:2 
+Motor b: Seg 1:17, Seg 2:3, Seg 3:10 
+Throughput a: Seg 1:445, Seg 2:369, Seg 3:334 
+Throughput b: Seg 1:415, Seg 2:304, Seg 3:248 
+Timestep:97sec 
+Motor a: Seg 1:7, Seg 2:2, Seg 3:5 
+Motor b: Seg 1:2, Seg 2:5, Seg 3:6 
+Throughput a: Seg 1:452, Seg 2:371, Seg 3:339 
+Throughput b: Seg 1:417, Seg 2:309, Seg 3:254 
+Timestep:98sec 
+Motor a: Seg 1:4, Seg 2:7, Seg 3:2 
+Motor b: Seg 1:13, Seg 2:8, Seg 3:3 
+Throughput a: Seg 1:456, Seg 2:378, Seg 3:341 
+Throughput b: Seg 1:430, Seg 2:317, Seg 3:257 
+Timestep:99sec 
+Motor a: Seg 1:1, Seg 2:5, Seg 3:5 
+Motor b: Seg 1:0, Seg 2:4, Seg 3:2 
+Throughput a: Seg 1:457, Seg 2:383, Seg 3:346 
+Throughput b: Seg 1:430, Seg 2:321, Seg 3:259 
+Timestep:100sec 
+Motor a: Seg 1:4, Seg 2:4, Seg 3:5 
+Motor b: Seg 1:2, Seg 2:2, Seg 3:4 
+Throughput a: Seg 1:461, Seg 2:387, Seg 3:351 
+Throughput b: Seg 1:432, Seg 2:323, Seg 3:263 
+Timestep:101sec 
+Motor a: Seg 1:3, Seg 2:8, Seg 3:4 
+Motor b: Seg 1:4, Seg 2:6, Seg 3:7 
+Throughput a: Seg 1:464, Seg 2:395, Seg 3:355 
+Throughput b: Seg 1:436, Seg 2:329, Seg 3:270 
+Timestep:102sec 
+Motor a: Seg 1:5, Seg 2:1, Seg 3:3 
+Motor b: Seg 1:4, Seg 2:2, Seg 3:4 
+Throughput a: Seg 1:469, Seg 2:396, Seg 3:358 
+Throughput b: Seg 1:440, Seg 2:331, Seg 3:274 
+Timestep:103sec 
+Motor a: Seg 1:3, Seg 2:1, Seg 3:4 
+Motor b: Seg 1:5, Seg 2:8, Seg 3:3 
+Throughput a: Seg 1:472, Seg 2:397, Seg 3:362 
+Throughput b: Seg 1:445, Seg 2:339, Seg 3:277 
+Timestep:104sec 
+Motor a: Seg 1:7, Seg 2:3, Seg 3:2 
+Motor b: Seg 1:8, Seg 2:7, Seg 3:3 
+Throughput a: Seg 1:479, Seg 2:400, Seg 3:364 
+Throughput b: Seg 1:453, Seg 2:346, Seg 3:280 
+Timestep:105sec 
+Motor a: Seg 1:2, Seg 2:3, Seg 3:5 
+Motor b: Seg 1:19, Seg 2:11, Seg 3:3 
+Throughput a: Seg 1:481, Seg 2:403, Seg 3:369 
+Throughput b: Seg 1:472, Seg 2:357, Seg 3:283 
+Timestep:106sec 
+Motor a: Seg 1:5, Seg 2:11, Seg 3:2 
+Motor b: Seg 1:0, Seg 2:1, Seg 3:5 
+Throughput a: Seg 1:486, Seg 2:414, Seg 3:371 
+Throughput b: Seg 1:472, Seg 2:358, Seg 3:288 
+Timestep:107sec 
+Motor a: Seg 1:5, Seg 2:5, Seg 3:6 
+Motor b: Seg 1:1, Seg 2:10, Seg 3:5 
+Throughput a: Seg 1:491, Seg 2:419, Seg 3:377 
+Throughput b: Seg 1:473, Seg 2:368, Seg 3:293 
+Timestep:108sec 
+Motor a: Seg 1:5, Seg 2:3, Seg 3:6 
+Motor b: Seg 1:2, Seg 2:1, Seg 3:4 
+Throughput a: Seg 1:496, Seg 2:422, Seg 3:383 
+Throughput b: Seg 1:475, Seg 2:369, Seg 3:297 
+Timestep:109sec 
+Motor a: Seg 1:5, Seg 2:5, Seg 3:4 
+Motor b: Seg 1:6, Seg 2:2, Seg 3:6 
+Throughput a: Seg 1:501, Seg 2:427, Seg 3:387 
+Throughput b: Seg 1:481, Seg 2:371, Seg 3:303 
+Timestep:110sec 
+Motor a: Seg 1:2, Seg 2:4, Seg 3:8 
+Motor b: Seg 1:10, Seg 2:6, Seg 3:2 
+Throughput a: Seg 1:503, Seg 2:431, Seg 3:395 
+Throughput b: Seg 1:491, Seg 2:377, Seg 3:305 
+Timestep:111sec 
+Motor a: Seg 1:6, Seg 2:8, Seg 3:1 
+Motor b: Seg 1:1, Seg 2:1, Seg 3:6 
+Throughput a: Seg 1:509, Seg 2:439, Seg 3:396 
+Throughput b: Seg 1:492, Seg 2:378, Seg 3:311 
+Timestep:112sec 
+Motor a: Seg 1:3, Seg 2:3, Seg 3:1 
+Motor b: Seg 1:2, Seg 2:6, Seg 3:6 
+Throughput a: Seg 1:512, Seg 2:442, Seg 3:397 
+Throughput b: Seg 1:494, Seg 2:384, Seg 3:317 
+Timestep:113sec 
+Motor a: Seg 1:7, Seg 2:4, Seg 3:3 
+Motor b: Seg 1:2, Seg 2:3, Seg 3:4 
+Throughput a: Seg 1:519, Seg 2:446, Seg 3:400 
+Throughput b: Seg 1:496, Seg 2:387, Seg 3:321 
+Timestep:114sec 
+Motor a: Seg 1:5, Seg 2:3, Seg 3:3 
+Motor b: Seg 1:21, Seg 2:4, Seg 3:4 
+Throughput a: Seg 1:524, Seg 2:449, Seg 3:403 
+Throughput b: Seg 1:517, Seg 2:391, Seg 3:325
