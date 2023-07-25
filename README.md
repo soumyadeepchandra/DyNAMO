@@ -1,3 +1,3 @@
 # DyNAMO
 
-Dynamic Nanoscale Axonal MT Organization model
+Dynamic Nanoscale Axonal Microtubule Organization model
